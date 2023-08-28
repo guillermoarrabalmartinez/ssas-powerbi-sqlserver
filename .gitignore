@@ -1,0 +1,7 @@
+#Ignore config file
+.env
+#Powershell
+powershell/
+configuration/config.json
+# Cache folders
+**/__pycache__/
